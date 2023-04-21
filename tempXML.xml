@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publications SYSTEM "temp.dtd">
+
+<Publications>
+  <Article PMID="1">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Print">0006-2944</ISSN>
+        <JournalIssue CitedMedium="Print">
+          <Volume>13</Volume>
+          <Issue>2</Issue>
+          <PubDate>
+            <Year>1975</Year>
+          </PubDate>
+        </JournalIssue>
+        <Title>Biochemical medicine</Title>
+        <ISOAbbreviation>Biochem Med</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>Formate assay in body fluids: application in methanol poisoning.</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Makar</LastName>
+          <ForeName>A B</ForeName>
+          <Initials>AB</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>McMartin</LastName>
+          <ForeName>K E</ForeName>
+          <Initials>KE</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Palese</LastName>
+          <ForeName>M</ForeName>
+          <Initials>M</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Tephly</LastName>
+          <ForeName>T R</ForeName>
+          <Initials>TR</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="2">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Electronic">1090-2104</ISSN>
+        <JournalIssue CitedMedium="Internet">
+          <Volume>66</Volume>
+          <Issue>4</Issue>
+          <PubDate>
+            <Year>1975</Year>
+            <Day>27</Day>
+          </PubDate>
+        </JournalIssue>
+        <Title>Biochemical and biophysical research communications</Title>
+        <ISOAbbreviation>Biochem Biophys Res Commun</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>Delineation of the intimate details of the backbone conformation of pyridine nucleotide coenzymes in aqueous solution.</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Bose</LastName>
+          <ForeName>K S</ForeName>
+          <Initials>KS</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Sarma</LastName>
+          <ForeName>R H</ForeName>
+          <Initials>RH</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="3">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Print">0006-291X</ISSN>
+        <JournalIssue CitedMedium="Print">
+          <Volume>66</Volume>
+          <Issue>4</Issue>
+          <PubDate>
+            <Year>1975</Year>
+            <Month>Oct</Month>
+            <Day>27</Day>
+          </PubDate>
+        </JournalIssue>
+        <Title>Biochemical and biophysical research communications</Title>
+        <ISOAbbreviation>Biochem Biophys Res Commun</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>Metal substitutions incarbonic anhydrase: a halide ion probe study.</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Smith</LastName>
+          <ForeName>R J</ForeName>
+          <Initials>RJ</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Bryant</LastName>
+          <ForeName>R G</ForeName>
+          <Initials>RG</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="20507">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Print">0022-2631</ISSN>
+        <JournalIssue CitedMedium="Print">
+          <Volume>36</Volume>
+          <Issue>2-3</Issue>
+          <PubDate>
+            <Year>1977</Year>
+            <Month>Sep</Month>
+            <Day>14</Day>
+          </PubDate>
+        </JournalIssue>
+        <Title>The Journal of membrane biology</Title>
+        <ISOAbbreviation>J Membr Biol</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>Uracil transport in Saccharomyces cerevisiae.</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Jund</LastName>
+          <ForeName>R</ForeName>
+          <Initials>R</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Chevallier</LastName>
+          <ForeName>M R</ForeName>
+          <Initials>MR</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Lacroute</LastName>
+          <ForeName>F</ForeName>
+          <Initials>F</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="20508">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Print">0022-2631</ISSN>
+        <JournalIssue CitedMedium="Print">
+          <Volume>36</Volume>
+          <Issue>2-3</Issue>
+          <PubDate>
+            <Year>1977</Year>
+            <Month>Sep</Month>
+            <Day>14</Day>
+          </PubDate>
+        </JournalIssue>
+        <Title>The Journal of membrane biology</Title>
+        <ISOAbbreviation>J Membr Biol</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>Ion permeability and strength of cell contacts: ion permeability and mechanical properties of cell contacts in small intestine epithelium.</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Malenkov</LastName>
+          <ForeName>A G</ForeName>
+          <Initials>AG</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Melikyants</LastName>
+          <ForeName>A G</ForeName>
+          <Initials>AG</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="20509">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Print">0022-2836</ISSN>
+        <JournalIssue CitedMedium="Print">
+          <Volume>114</Volume>
+          <Issue>1</Issue>
+          <PubDate>
+            <Year>1977</Year>
+            <Month>Jul</Month>
+          </PubDate>
+        </JournalIssue>
+        <Title>Journal of molecular biology</Title>
+        <ISOAbbreviation>J Mol Biol</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>Complementary specificity of restriction endonucleases of Diplococcus pneumoniae with respect to DNA methylation.</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Lacks</LastName>
+          <ForeName>S</ForeName>
+          <Initials>S</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Greenberg</LastName>
+          <ForeName>B</ForeName>
+          <Initials>B</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="30969">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Print">0301-1518</ISSN>
+        <JournalIssue CitedMedium="Print">
+          <Volume>7</Volume>
+          <Issue>31</Issue>
+          <PubDate>
+            <Year>1978</Year>
+            <Month>Sep</Month>
+            <Day>20</Day>
+          </PubDate>
+        </JournalIssue>
+        <Title>La Nouvelle presse medicale</Title>
+        <ISOAbbreviation>Nouv Presse Med</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>[Beta-blockers and arterial hypertension in the aged patient].</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Emeriau</LastName>
+          <ForeName>J P</ForeName>
+          <Initials>JP</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Rumeau</LastName>
+          <ForeName>M</ForeName>
+          <Initials>M</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="13696">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Electronic">1539-3704</ISSN>
+        <JournalIssue CitedMedium="Internet">
+          <Volume>86</Volume>
+          <Issue>2</Issue>
+          <PubDate>
+            <Year>1977</Year>
+            <Month>Feb</Month>
+          </PubDate>
+        </JournalIssue>
+        <Title>Annals of internal medicine</Title>
+        <ISOAbbreviation>Ann Intern Med</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>Bone marrow transplantation with intensive combination chemotherapy/radiation therapy (SCARI) in acute leukemia.</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <CollectiveName>The UCLA Bone Marrow Transplantation Group</CollectiveName>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="13700">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Print">0003-4509</ISSN>
+        <JournalIssue CitedMedium="Print">
+          <Volume>34</Volume>
+          <Issue>9-10</Issue>
+          <PubDate>
+            <MedlineDate>1976 Sep-Oct</MedlineDate>
+          </PubDate>
+        </JournalIssue>
+        <Title>Annales pharmaceutiques francaises</Title>
+        <ISOAbbreviation>Ann Pharm Fr</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>[Influence of acute and chronic alcoholism on the activity of two benzodiazepines: oxazepam and medazepam].</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Bourrinet</LastName>
+          <ForeName>P</ForeName>
+          <Initials>P</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Takeda</LastName>
+          <ForeName>H</ForeName>
+          <Initials>H</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+  <Article PMID="17090">
+    <PubDetails>
+      <Journal>
+        <ISSN IssnType="Print">0304-3959</ISSN>
+        <JournalIssue CitedMedium="Print">
+          <Volume>2</Volume>
+          <Issue>3</Issue>
+          <PubDate>
+            <Year>1976</Year>
+            <Month>Sep</Month>
+          </PubDate>
+        </JournalIssue>
+        <Title>Pain</Title>
+        <ISOAbbreviation>Pain</ISOAbbreviation>
+      </Journal>
+      <ArticleTitle>A comprehensive treatment approach to chronic low back pain.</ArticleTitle>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Cairns</LastName>
+          <ForeName>Douglas</ForeName>
+          <Initials>D</Initials>
+          <AffiliationInfo>
+            <Affiliation>Spine Center, Rancho Los Amigos Hospital, 7601 East Imperial Highway, Downey, Calif. 90242 U.S.A.</Affiliation>
+          </AffiliationInfo>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Thomas</LastName>
+          <ForeName>Lynn</ForeName>
+          <Initials>L</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Mooney</LastName>
+          <ForeName>Vert</ForeName>
+          <Initials>V</Initials>
+        </Author>
+        <Author ValidYN="Y">
+          <LastName>Pace</LastName>
+          <ForeName>Blair J</ForeName>
+          <Initials>BJ</Initials>
+        </Author>
+      </AuthorList>
+    </PubDetails>
+  </Article>
+</Publications>
